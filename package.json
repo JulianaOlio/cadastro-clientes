@@ -1,0 +1,15 @@
+{
+  "name": "cadastro-clientes",
+  "version": "1.0.0",
+  "description": "CRUD examples",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "CRUD",
+    "nodejs"
+  ],
+  "author": "JulianaOlio",
+  "license": "MIT"
+}
